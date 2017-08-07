@@ -36,3 +36,7 @@ except TypeError as error1:
     print("no se puede usar texto con estrofa")
     
     
+#Ahora esto deberias de ver ...
+ 
+ 
+    
