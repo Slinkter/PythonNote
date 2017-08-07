@@ -37,6 +37,9 @@ except TypeError as error1:
     
     
 #Ahora esto deberias de ver ...
+#se actualizo correctamente ...
+
+
  
  
     
