@@ -1,0 +1,5 @@
+print(type(2))
+print(type(2.0))
+print(type(8 == 8))
+print(type([1,2]))
+print(type({4,3}))
